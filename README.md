@@ -1,8 +1,6 @@
 # About this Training
 
-[![Contribute](https://www.eclipse.org/che/contribute.svg),window=_blank](https://devspaces.apps.tools-na100.dev.ole.redhat.com/#https://github.com/RedHatQuickCourses/test-aks)
-
-[![Contribute,window=_blank](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.tools-na100.dev.ole.redhat.com/#https://github.com/RedHatQuickCourses/test-aks)
+Click here: [![Contribute,window=_blank](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.tools-na100.dev.ole.redhat.com/#https://github.com/RedHatQuickCourses/test-aks) to start the development using devspace.
 
 FIXME: Add short description about your training here.
 
